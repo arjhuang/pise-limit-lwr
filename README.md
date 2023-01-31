@@ -1,8 +1,4 @@
-# PIDL-Limitations
-
-Field Data in this repo -       
-
-NGSIM_US101_Density_Data.txt  - Vehicle Density on US-101 Highway Segment, between 7:50 am and 8:35 am, NGSIM. (Source: Dr. Allan Avila - https://github.com/Allan-Avila/Highway-Traffic-Dynamics-KMD-Code)
+# Limitations of Physics-Informed deep learning in traffic State Estimation (PISE) 
 
 ### Corresponding publication -   
 
@@ -13,3 +9,7 @@ We wish to thank Dr. Rongye Shi at Columbia University for providing the ring ro
 Code is built upon Dr. Maziar Raissi's PINNs - https://github.com/maziarraissi/PINNs 
 
 - Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://www.sciencedirect.com/science/article/pii/S0021999118307125)." Journal of Computational Physics 378 (2019): 686-707.
+
+Field Data in this repo -       
+
+NGSIM_US101_Density_Data.txt  - Vehicle Density on US-101 Highway Segment, between 7:50 am and 8:35 am, NGSIM. (Source: Dr. Allan Avila - https://github.com/Allan-Avila/Highway-Traffic-Dynamics-KMD-Code)
