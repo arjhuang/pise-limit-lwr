@@ -2,7 +2,7 @@
 
 ### Corresponding publication -   
 
-  - A. J. Huang and S. Agarwal, *On the Limitations of Physics-informed Deep Learning: Illustrations Using First Order Hyperbolic Conservation Law-based Traffic Flow Models* in IEEE Open Journal of Intelligent Transportation Systems, 2022
+  - A. J. Huang and S. Agarwal, ["On the Limitations of Physics-informed Deep Learning: Illustrations Using First Order Hyperbolic Conservation Law-based Traffic Flow Models"](https://ieeexplore.ieee.org/document/10105558) in *IEEE Open Journal of Intelligent Transportation Systems*, vol. 4, pp. 279-293, 2023, doi: 10.1109/OJITS.2023.3268026.
   
 We wish to thank Dr. Rongye Shi at Columbia University for providing the ring road data for the first case study, Dr. Animesh Biswas at the University of Nebraska at Lincoln for the LWR reconstruction of the data, and Dr. Pushkin Kachroo at the University of Nevada Las Vegas for the suggestions and discussions on this topic.
 
