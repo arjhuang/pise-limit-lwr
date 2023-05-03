@@ -8,7 +8,7 @@ We wish to thank Dr. Rongye Shi at Columbia University for providing the ring ro
 
 ### Citation
 
-@article{huang2023limitations,
+    @article{huang2023limitations,
       title={On the Limitations of Physics-informed Deep Learning: Illustrations   Using First Order Hyperbolic Conservation Law-based Traffic Flow Models},
       author={Huang, Archie J and Agarwal, Shaurya},
       journal={IEEE Open Journal of Intelligent Transportation Systems},
@@ -18,7 +18,7 @@ We wish to thank Dr. Rongye Shi at Columbia University for providing the ring ro
       pages={279-293},
       doi={10.1109/OJITS.2023.3268026}
       publisher={IEEE}
-}
+    }
 
 ### Reference
 
