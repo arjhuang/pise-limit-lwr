@@ -1,6 +1,6 @@
 # Limitations of Physics-Informed deep learning in traffic State Estimation (PISE) 
 
-### Corresponding publication -   
+### Corresponding publication 
 
   - A. J. Huang and S. Agarwal, ["On the Limitations of Physics-informed Deep Learning: Illustrations Using First Order Hyperbolic Conservation Law-based Traffic Flow Models"](https://ieeexplore.ieee.org/document/10105558) in *IEEE Open Journal of Intelligent Transportation Systems*, vol. 4, pp. 279-293, 2023, doi: 10.1109/OJITS.2023.3268026.
   
